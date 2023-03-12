@@ -4,6 +4,8 @@
 
 Head to https://hub.docker.com and make sure you can log in.
 
+https://youtu.be/kTp5xUtcalw?t=6545
+
 ## Add a Dockerfile file
 
 Using the Code tooling, add a new Dockerfile by opening the Command Palette from the View menu.

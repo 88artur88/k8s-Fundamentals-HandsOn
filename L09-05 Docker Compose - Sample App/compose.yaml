@@ -64,3 +64,4 @@ volumes:
 secrets:
   db-password:
     file: db/password.txt
+# https://youtu.be/kTp5xUtcalw?t=6161
