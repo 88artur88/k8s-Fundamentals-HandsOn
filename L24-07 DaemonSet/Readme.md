@@ -1,4 +1,4 @@
-# L24-07
+# L24-07 https://youtu.be/kTp5xUtcalw?t=13143
 
 Let's deploy a Busybox as a DaemonSet.
 

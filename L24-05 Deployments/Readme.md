@@ -1,4 +1,4 @@
-# L24-05
+# L24-05 https://youtu.be/kTp5xUtcalw?t=12703
 
 Let's now use the Deployment template instead of the Pod template.
 

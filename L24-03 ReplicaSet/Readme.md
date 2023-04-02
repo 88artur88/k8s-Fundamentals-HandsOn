@@ -1,4 +1,4 @@
-# L24-03
+# L24-03 https://youtu.be/kTp5xUtcalw?t=12263
 
 Let's now use the ReplicaSet template instead of the Pod template.
 

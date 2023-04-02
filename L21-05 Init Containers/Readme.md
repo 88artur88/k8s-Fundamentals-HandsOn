@@ -1,4 +1,4 @@
-# L21-06
+# L21-06  https://youtu.be/kTp5xUtcalw?t=10760
 
 Let's use an Init container.
 

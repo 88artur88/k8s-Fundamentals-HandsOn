@@ -1,4 +1,4 @@
-# L25-02
+# L25-02 https://youtu.be/kTp5xUtcalw?t=14961
 
 **NOTE: If you are running this lab on a ARM64 laptop/PC, edit the YAML file and change the image name from "hello-app" to "hello-arm" keeping the tag name as is.**
 

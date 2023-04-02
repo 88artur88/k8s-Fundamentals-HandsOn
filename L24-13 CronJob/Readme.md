@@ -1,4 +1,4 @@
-# L24-13
+# L24-13 https://youtu.be/kTp5xUtcalw?t=14537
 
 Let's now use the CronJob template.
 

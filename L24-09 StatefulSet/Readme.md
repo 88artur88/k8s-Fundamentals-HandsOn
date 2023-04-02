@@ -1,4 +1,4 @@
-# L24-09
+# L24-09 https://youtu.be/kTp5xUtcalw?t=13621
 
 Let's now create a StafulSet.
 

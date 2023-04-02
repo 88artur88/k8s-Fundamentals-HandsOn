@@ -29,4 +29,5 @@ spec:
       - containerPort: 81
     command:
       - sleep
-      - "3600"
+      - "600"
+# https://youtu.be/kTp5xUtcalw?t=11998
