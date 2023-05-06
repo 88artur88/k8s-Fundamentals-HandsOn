@@ -1,4 +1,4 @@
-# L25-04
+# L25-04 https://youtu.be/kTp5xUtcalw?t=15421
 
 **NOTE: If you are running this lab on a ARM64 laptop/PC, edit the YAML file and change the image name from "hello-app" to "hello-arm" keeping the tag name as is.**
 
@@ -48,7 +48,9 @@ Edit the clusterip.yaml file and change the last line so that the service points
 
 First, port forward to the ClusterIP:
 
-    kubectl port-forward service/svc-front 8080:8080
+    # kubectl port-forward service/svc-front 8080:8080
+    kubectl port-forward services/svc-front 7777:8080 
+
 
 Open a browser and navigate to http://localhost:8080
 
@@ -59,3 +61,6 @@ The app version will be V2.
     kubectl delete -f hello-dep-v1.yaml
     kubectl delete -f hello-dep-v2.yaml
     kubectl delete -f clusterip.yaml
+
+
+

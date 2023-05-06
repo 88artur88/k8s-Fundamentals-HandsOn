@@ -19,11 +19,11 @@ spec:
         app: hello-dep
     spec:
       containers:
-      - image: k8sacademy/hello-app:1.0
+      - image:  guybarrette/hello-app:1.0
         resources:
           requests:
             cpu: 100m
-            memory: 128Mi
+            memory: 128Mi 
           limits:
             cpu: 250m
             memory: 256Mi      

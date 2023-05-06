@@ -1,4 +1,4 @@
-# L26-03
+# L26-03  https://youtu.be/kTp5xUtcalw?t=16118
 
 ## Deploy the service
 
