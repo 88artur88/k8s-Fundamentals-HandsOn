@@ -1,4 +1,4 @@
-# L26-07
+# L26-07 https://youtu.be/kTp5xUtcalw?t=16960
 
 Let's expose a deployment using a Load Balancer service, locally using Docker Desktop.
 

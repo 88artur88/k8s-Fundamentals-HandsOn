@@ -1,4 +1,4 @@
-# L29-02
+# L29-02 https://youtu.be/kTp5xUtcalw?t=19629
 
 ## Deploy the pod
 

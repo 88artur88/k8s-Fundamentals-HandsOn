@@ -1,4 +1,4 @@
-# L36-02
+# L36-02  https://youtu.be/kTp5xUtcalw?t=21010
 
 Let's use the Horizontal Pod Autoscaler to scale a pod.
 

@@ -1,4 +1,4 @@
-# L28-02
+# L28-02  https://youtu.be/kTp5xUtcalw?t=18639
 
 ## Create the ConfigMap
 
